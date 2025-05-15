@@ -28,7 +28,7 @@ class ZsgsStudent extends Student
 	}
 }
 
-public class Constructor
+public class  StudentParent 
 {
 	public static void main(String[] args)
 	{
