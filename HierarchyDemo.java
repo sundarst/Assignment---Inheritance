@@ -27,7 +27,7 @@ class Lorry extends Vehicle
 	}
 }
 
-public  class HierarchyDemo
+public  class VehicleHierarchy
 {
 	
 	public static void main(String[]args)
